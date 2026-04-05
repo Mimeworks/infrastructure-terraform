@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"jellyfin_vms","Source":"./modules/proxmox-vm","Dir":"modules/proxmox-vm"},{"Key":"misc_vms","Source":"./modules/proxmox-vm","Dir":"modules/proxmox-vm"},{"Key":"storage_vms","Source":"./modules/proxmox-vm","Dir":"modules/proxmox-vm"},{"Key":"vms","Source":"./modules/proxmox-vm","Dir":"modules/proxmox-vm"}]}
