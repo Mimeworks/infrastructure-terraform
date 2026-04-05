@@ -38,7 +38,7 @@ jellyfin_vms = {
     vm_id         = 104
     cpu_cores     = 8
     memory        = 24576
-    balloon       = 2048
+    balloon       = 0
     disk_size     = 512
     template_name = "alma-template-apollo"
   }
