@@ -23,7 +23,6 @@ vms = {
     vm_id         = 107
     cpu_cores     = 12
     memory        = 16384
-    balloon       = 2048
     disk_size     = 32
     template_name = "alma-template-zeus"
   }
