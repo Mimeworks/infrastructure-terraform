@@ -1,7 +1,14 @@
 # ============================================================================
+# Proxmox Configuration
+# ============================================================================
+proxmox_api_url = "https://192.168.10.4:8006/api2/json"
+proxmox_user    = "root@pam"
+# The cluster uses the self-signed Proxmox certificate.
+proxmox_tls_insecure = true
+
+# ============================================================================
 # Infisical Configuration
 # ============================================================================
-# NOTE: Update these values with your actual Infisical workspace ID
 infisical_workspace_id = "9c685462-ff68-454e-828c-8cf682790655"
 infisical_env          = "prod"
 
